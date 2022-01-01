@@ -1,0 +1,9 @@
+.clangd/
+.idea/
+cmake-build-*/
+build/
+bin/
+*.o
+*.exe
+*.so
+compile_commands.json
